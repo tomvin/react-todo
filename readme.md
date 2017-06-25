@@ -1,1 +1,1 @@
-React boilerplate app
+React Todo Application
